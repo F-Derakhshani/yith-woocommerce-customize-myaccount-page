@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Customize My Account Page\n"
+"POT-Creation-Date: 2017-03-03 11:35+0100\n"
+"PO-Revision-Date: 2017-03-03 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: YIThemes <plugins@yithemes.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class.yith-wcmap-admin.php:158
+#: ../templates/admin/endpoint-field.php:51
+#: ../templates/admin/endpoints-group.php:33
+msgid "Show"
+msgstr "Mostrar"
+
+#: ../includes/class.yith-wcmap-admin.php:159
+#: ../templates/admin/endpoint-field.php:51
+#: ../templates/admin/endpoints-group.php:33
+msgid "Hide"
+msgstr "Ocultar"
+
+#: ../includes/class.yith-wcmap-admin.php:163
+msgid "Are you sure that you want to delete this endpoint?"
+msgstr "¿Estás seguro de que quieres borrar este endpoint?"
+
+#: ../includes/class.yith-wcmap-admin.php:182
+#: ../includes/class.yith-wcmap-admin.php:203
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../includes/class.yith-wcmap-admin.php:204
+msgid "Endpoints"
+msgstr "Endpoints"
+
+#: ../includes/class.yith-wcmap-admin.php:210
+#: ../includes/class.yith-wcmap-admin.php:211
+msgid "Customize My Account Page"
+msgstr "Customize My Account Page"
+
+#: ../includes/class.yith-wcmap-admin.php:276
+msgid "Plugin Documentation"
+msgstr "Documentación del Plugin"
+
+#: ../includes/class.yith-wcmap-admin.php:466
+msgid ""
+"An error has occurred or this endpoint field already exists. Please try "
+"again."
+msgstr ""
+"Ha ocurrido un error o este campo de endpoint ya existe. Por favor, vuelve a "
+"intentarlo."
+
+#: ../includes/class.yith-wcmap-frontend.php:375
+#, php-format
+msgid "Quote #%s"
+msgstr "Presupuesto #%s"
+
+#: ../includes/class.yith-wcmap-frontend.php:514
+msgid "There are no available downloads yet."
+msgstr "Todavía no hay descargas disponibles."
+
+#: ../includes/class.yith-wcmap-frontend.php:546
+msgid "Invalid order."
+msgstr "Pedido inválido."
+
+#: ../includes/class.yith-wcmap-frontend.php:546
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+#: ../includes/class.yith-wcmap-frontend.php:577
+msgid "There are no orders yet."
+msgstr "Todavía no hay pedidos."
+
+#: ../includes/functions.yith-wcmap.php:305
+msgid "My Orders"
+msgstr "Mis Pedidos"
+
+#: ../includes/functions.yith-wcmap.php:311
+msgid "Edit Account"
+msgstr "Editar cuenta."
+
+#: ../includes/functions.yith-wcmap.php:316
+msgid "Edit Address"
+msgstr "Editar dirección."
+
+#: ../includes/functions.yith-wcmap.php:321
+msgid "My Downloads"
+msgstr "Mis descargas"
+
+#: ../includes/functions.yith-wcmap.php:327
+msgid "Dashboard"
+msgstr "Tablero"
+
+#: ../includes/functions.yith-wcmap.php:332
+msgid "Payment Methods"
+msgstr "Medios de pago"
+
+#: ../includes/functions.yith-wcmap.php:713
+msgid "My Wishlist"
+msgstr "Mi lista de deseos"
+
+#: ../includes/functions.yith-wcmap.php:722
+msgid "One click checkout"
+msgstr "One click checkout"
+
+#: ../includes/functions.yith-wcmap.php:731
+msgid "Saved Cards"
+msgstr "Tarjetas guardadas"
+
+#: ../includes/functions.yith-wcmap.php:740
+msgid "My Quotes"
+msgstr "Mis Presupuestos"
+
+#: ../includes/functions.yith-wcmap.php:749
+msgid "My Waiting List"
+msgstr "Mi lista de espera"
+
+#: ../includes/functions.yith-wcmap.php:756
+msgid "Membership Plans:"
+msgstr "Planes de Membership:"
+
+#: ../includes/functions.yith-wcmap.php:763
+msgid "Membership Plans"
+msgstr "Planes de Membership"
+
+#: ../includes/functions.yith-wcmap.php:772
+msgid "My Subscriptions"
+msgstr "Mis suscripciones"
+
+#: ../includes/functions.yith-wcmap.php:781
+msgid "My Membership"
+msgstr "Mi membership"
+
+#: ../includes/functions.yith-wcmap.php:790
+msgid "My Subscription"
+msgstr "Mi suscripción"
+
+#: ../includes/functions.yith-wcmap.php:801
+msgid "Make a Deposit"
+msgstr "Hacer un depósito"
+
+#: ../includes/functions.yith-wcmap.php:809
+msgid "Income/Expenditure History"
+msgstr "Historial de Ingresos/Gastos"
+
+#: ../init.php:41
+msgid ""
+"YITH WooCommerce Customize My Account Page is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Customize My Account Page está habilitado pero no es "
+"efectivo. Requiere WooCommerce para funcionar."
+
+#: ../plugin-options/endpoints-options.php:14
+msgid "Endpoint Options"
+msgstr "Opciones de endpoint"
+
+#: ../plugin-options/endpoints-options.php:21
+#: ../templates/admin/admin-endpoints.php:20
+msgid "Manage Endpoints"
+msgstr "Administrar endpoints"
+
+#: ../plugin-options/general-options.php:14
+msgid "General Options"
+msgstr "Opciones Generales"
+
+#: ../plugin-options/general-options.php:21
+msgid "Custom Avatar"
+msgstr "Avatar personalizado"
+
+#: ../plugin-options/general-options.php:22
+msgid "Let users upload a custom avatar as their profile picture."
+msgstr ""
+"Permite a los usuarios subir un avatar personalizado como foto de perfil."
+
+#: ../plugin-options/general-options.php:29
+msgid "Menu style"
+msgstr "Estilo del menú"
+
+#: ../plugin-options/general-options.php:33
+msgid "Choose the style for the \"My Account\" menu"
+msgstr "Elige el estilo del menú \"Mi Cuenta\""
+
+#: ../plugin-options/general-options.php:35
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: ../plugin-options/general-options.php:36
+msgid "Tab"
+msgstr "Pestaña"
+
+#: ../plugin-options/general-options.php:41
+msgid "Sidebar position"
+msgstr "Posición de la barra lateral"
+
+#: ../plugin-options/general-options.php:42
+msgid ""
+"Choose the position of the menu in \"My Account\" page (only for sidebar "
+"style)"
+msgstr ""
+"Elige la posición del menú en la página \"Mi Cuenta\" (sólo para estilo de "
+"barra lateral)"
+
+#: ../plugin-options/general-options.php:45
+msgid "Left"
+msgstr "Izquierda"
+
+#: ../plugin-options/general-options.php:46
+msgid "Right"
+msgstr "Derecha"
+
+#: ../plugin-options/general-options.php:53
+msgid "Default endpoint"
+msgstr "Endpoint predeterminado"
+
+#: ../plugin-options/general-options.php:54
+msgid "Choose the default endpoint for \"My account\" page"
+msgstr "Elige el endpoint predeterminado para la página de \"Mi Cuenta\""
+
+#: ../plugin-options/general-options.php:67
+msgid "Style Options"
+msgstr "Opciones de estilo"
+
+#: ../plugin-options/general-options.php:74
+msgid "Menu item color"
+msgstr "Elemento del menú"
+
+#: ../plugin-options/general-options.php:78
+msgid "Choose a color for menu items."
+msgstr "Elige el color del elemento del menú."
+
+#: ../plugin-options/general-options.php:82
+msgid "Menu item color on hover"
+msgstr "Color del elemento del menú en hover"
+
+#: ../plugin-options/general-options.php:86
+msgid "Choose colour of menu items on mouse hover."
+msgstr "Elegir el color de los elementos del menú en hover."
+
+#: ../plugin-options/general-options.php:90
+msgid "Logout color"
+msgstr "Color de cierre de sesión"
+
+#: ../plugin-options/general-options.php:94
+msgid "Choose the color of the Logout text."
+msgstr "Elige el color del texto de cierre de sesión."
+
+#: ../plugin-options/general-options.php:98
+msgid "Logout color on hover"
+msgstr "Color de cierre de sesión en hover"
+
+#: ../plugin-options/general-options.php:102
+msgid "Choose the color of the Logout text on mouse hover."
+msgstr "Elige el color del texto de cierre sesión en hover."
+
+#: ../plugin-options/general-options.php:106
+msgid "Logout background color"
+msgstr "Color de fondo de cierre de sesión"
+
+#: ../plugin-options/general-options.php:110
+msgid "Choose the color of the Logout background."
+msgstr "Elige el color de fondo del cierre de sesión."
+
+#: ../plugin-options/general-options.php:114
+msgid "Logout background color on hover"
+msgstr "Color de fondo de cierre de sesión en hover"
+
+#: ../plugin-options/general-options.php:118
+msgid "Choose the color of the Logout background on mouse hover."
+msgstr "Elige el color de fondo del cierre de sesión en hover."
+
+#: ../templates/admin/admin-endpoints.php:53
+msgctxt "Label for new endpoint title"
+msgid "Name"
+msgstr "Nombre"
+
+#: ../templates/admin/endpoint-field.php:35
+msgid "Endpoint"
+msgstr "Endpoint"
+
+#: ../templates/admin/endpoint-field.php:44
+msgid "sub item"
+msgstr "sub elemento"
+
+#: ../templates/admin/endpoint-field.php:54
+#: ../templates/admin/endpoints-group.php:35
+msgid "Remove"
+msgstr "Eliminar"
+
+#: ../templates/admin/endpoint-field.php:64
+msgid "Endpoint slug"
+msgstr "Slug de endpoint"
+
+#: ../templates/admin/endpoint-field.php:65
+msgid ""
+"Text appended to your page URLs to manage new contents in account pages. It "
+"must be unique for every page."
+msgstr ""
+"Texto anexado a las URLs de tu página para administrar nuevos contenidos en "
+"cuentas de páginas. Debe ser único para cada página."
+
+#: ../templates/admin/endpoint-field.php:75
+msgid "Endpoint label"
+msgstr "Etiqueta de endpoint"
+
+#: ../templates/admin/endpoint-field.php:76
+#: ../templates/admin/endpoints-group.php:44
+msgid "Menu item for this endpoint in \"My Account\"."
+msgstr "Elemento de menú para este endpoint en \"Mi Cuenta\""
+
+#: ../templates/admin/endpoint-field.php:86
+msgid "Endpoint icon"
+msgstr "Icono del endpoint"
+
+#: ../templates/admin/endpoint-field.php:87
+msgid "Endpoint icon for \"My Account\" menu option"
+msgstr "Icono del endpoint para la opción de menú \"Mi Cuenta\""
+
+#: ../templates/admin/endpoint-field.php:91
+msgid "No icon"
+msgstr "Sin icono"
+
+#: ../templates/admin/endpoint-field.php:101
+#: ../templates/admin/endpoints-group.php:54
+msgid "User roles"
+msgstr "Roles de usuario"
+
+#: ../templates/admin/endpoint-field.php:103
+#: ../templates/admin/endpoints-group.php:56
+msgid "Restrict endpoint visibility to the following user role(s)."
+msgstr ""
+"Restringir visibilidad de endpoint al/a los siguiente(s) rol(es) de usuario"
+
+#: ../templates/admin/endpoint-field.php:119
+msgid "Endpoint custom content"
+msgstr "Contenido personalizado del endpoint"
+
+#: ../templates/admin/endpoint-field.php:120
+msgid "Custom endpoint content. Leave it black to use default content."
+msgstr ""
+"Contenido de endpoint personalizado. Déjalo en blanco para utilizar el "
+"contenido por defecto."
+
+#: ../templates/admin/endpoints-group.php:19
+msgid "Group"
+msgstr "Grupo"
+
+#: ../templates/admin/endpoints-group.php:43
+msgid "Group label"
+msgstr "Etiqueta de grupo"
+
+#: ../templates/admin/endpoints-group.php:70
+msgid "Show open"
+msgstr "Mostrar abierto"
+
+#: ../templates/admin/endpoints-group.php:71
+msgid ""
+"Show the group open by default. (Please note: this option is valid only for "
+"\"Sidebar\" style)"
+msgstr ""
+
+#: ../templates/ywcmap-myaccount-menu.php:34
+msgid "Logout"
+msgstr "Cierre de sesión"
+
+#: ../templates/ywcmap-myaccount-menu.php:62
+msgid "Upload your avatar"
+msgstr "Sube tu avatar"
+
+#: ../templates/ywcmap-myaccount-menu.php:68
+msgid "Upload"
+msgstr "Subir"
+
+#: ../templates/ywcmap-myaccount-menu.php:75
+msgid "Reset to defaults"
+msgstr "Reiniciar a predeterminado"
+
+#~ msgid ""
+#~ "Show the group open by default. (Please note: this option is valid only "
+#~ "for\n"
+#~ "                        \"Sidebar\" style)"
+#~ msgstr ""
+#~ "Mostrar el grupo abierto por defecto. (Nota: esta opción sólo es válida "
+#~ "para\n"
+#~ "                        el estilo \"Barra lateral\")"
+
+#~ msgid ""
+#~ "An error has occurred or this endpoint already exists. Please try again."
+#~ msgstr ""
+#~ "Ha ocurrido un error o este término ya existe. Por favor, inténtalo de "
+#~ "nuevo."
+
+#~ msgid "Are you sure you want to delete this endpoint?"
+#~ msgstr "¿Seguro que quieres borrar este término?"
+
+#~ msgid "Let users upload a custom avatar as profile picture."
+#~ msgstr ""
+#~ "Permite a los usuarios subir un avatar personalizado como foto de perfil."
+
+#~ msgid ""
+#~ "Choose the position of the menu in \"My Account\" page (only for sidebar "
+#~ "style )"
+#~ msgstr ""
+#~ "Elige la posición del menú en la página \"Mi Cuenta\" (sólo para estilo "
+#~ "de barra lateral)"
+
+#~ msgid "Choose the menu item color."
+#~ msgstr "Elige el color del elemento del menú."
+
+#~ msgid "Choose the menu item color on mouse hover."
+#~ msgstr "Elige el color del elemento del menú en el evento hover del ratón."
+
+#~ msgid "Choose the color of the logout text."
+#~ msgstr "Elige el color del texto de cierre de sesión."
+
+#~ msgid "Choose the color of logout text on mouse hover."
+#~ msgstr "Elige el color del texto para cerrar sesión en hover."
+
+#~ msgid "Choose the color of the logout background."
+#~ msgstr "Elige el color de fondo del cierre de sesión."
+
+#~ msgid "Choose the color of the logout background on mouse hover."
+#~ msgstr "Elige el color de fondo de cierre de sesión en hover."
+
+#~ msgid "Name of the \"My Account\" menu option of the endpoint."
+#~ msgstr "Nombre de la opción de menú de \"Mi Cuenta\" del término."
+
+#~ msgid "Choose icon"
+#~ msgstr "Elegir icono"
+
+#~ msgid "Custom endpoint content. Leave black to use default."
+#~ msgstr ""
+#~ "Contenido personalizado del término. Déjalo en blanco para usar el "
+#~ "predeterminado."
+
+#~ msgid "Endpoint Name"
+#~ msgstr "Nombre del término"
+
+#~ msgid "Add Endpoint"
+#~ msgstr "Añadir término"

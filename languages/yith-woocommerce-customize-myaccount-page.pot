@@ -1,0 +1,375 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Customize My Account Page\n"
+"POT-Creation-Date: 2017-03-03 11:35+0100\n"
+"PO-Revision-Date: 2015-06-23 09:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: YIThemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/class.yith-wcmap-admin.php:158
+#: ../templates/admin/endpoint-field.php:51
+#: ../templates/admin/endpoints-group.php:33
+msgid "Show"
+msgstr ""
+
+#: ../includes/class.yith-wcmap-admin.php:159
+#: ../templates/admin/endpoint-field.php:51
+#: ../templates/admin/endpoints-group.php:33
+msgid "Hide"
+msgstr ""
+
+#: ../includes/class.yith-wcmap-admin.php:163
+msgid "Are you sure that you want to delete this endpoint?"
+msgstr ""
+
+#: ../includes/class.yith-wcmap-admin.php:182
+#: ../includes/class.yith-wcmap-admin.php:203
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class.yith-wcmap-admin.php:204
+msgid "Endpoints"
+msgstr ""
+
+#: ../includes/class.yith-wcmap-admin.php:210
+#: ../includes/class.yith-wcmap-admin.php:211
+msgid "Customize My Account Page"
+msgstr ""
+
+#: ../includes/class.yith-wcmap-admin.php:276
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../includes/class.yith-wcmap-admin.php:466
+msgid ""
+"An error has occurred or this endpoint field already exists. Please try "
+"again."
+msgstr ""
+
+#: ../includes/class.yith-wcmap-frontend.php:375
+#, php-format
+msgid "Quote #%s"
+msgstr ""
+
+#: ../includes/class.yith-wcmap-frontend.php:514
+msgid "There are no available downloads yet."
+msgstr ""
+
+#: ../includes/class.yith-wcmap-frontend.php:546
+msgid "Invalid order."
+msgstr ""
+
+#: ../includes/class.yith-wcmap-frontend.php:546
+msgid "My Account"
+msgstr ""
+
+#: ../includes/class.yith-wcmap-frontend.php:577
+msgid "There are no orders yet."
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:305
+msgid "My Orders"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:311
+msgid "Edit Account"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:316
+msgid "Edit Address"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:321
+msgid "My Downloads"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:327
+msgid "Dashboard"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:332
+msgid "Payment Methods"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:713
+msgid "My Wishlist"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:722
+msgid "One click checkout"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:731
+msgid "Saved Cards"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:740
+msgid "My Quotes"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:749
+msgid "My Waiting List"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:756
+msgid "Membership Plans:"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:763
+msgid "Membership Plans"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:772
+msgid "My Subscriptions"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:781
+msgid "My Membership"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:790
+msgid "My Subscription"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:801
+msgid "Make a Deposit"
+msgstr ""
+
+#: ../includes/functions.yith-wcmap.php:809
+msgid "Income/Expenditure History"
+msgstr ""
+
+#: ../init.php:41
+msgid ""
+"YITH WooCommerce Customize My Account Page is enabled but not effective. "
+"It requires WooCommerce in order to work."
+msgstr ""
+
+#: ../plugin-options/endpoints-options.php:14
+msgid "Endpoint Options"
+msgstr ""
+
+#: ../plugin-options/endpoints-options.php:21
+#: ../templates/admin/admin-endpoints.php:20
+msgid "Manage Endpoints"
+msgstr ""
+
+#: ../plugin-options/general-options.php:14
+msgid "General Options"
+msgstr ""
+
+#: ../plugin-options/general-options.php:21
+msgid "Custom Avatar"
+msgstr ""
+
+#: ../plugin-options/general-options.php:22
+msgid "Let users upload a custom avatar as their profile picture."
+msgstr ""
+
+#: ../plugin-options/general-options.php:29
+msgid "Menu style"
+msgstr ""
+
+#: ../plugin-options/general-options.php:33
+msgid "Choose the style for the \"My Account\" menu"
+msgstr ""
+
+#: ../plugin-options/general-options.php:35
+msgid "Sidebar"
+msgstr ""
+
+#: ../plugin-options/general-options.php:36
+msgid "Tab"
+msgstr ""
+
+#: ../plugin-options/general-options.php:41
+msgid "Sidebar position"
+msgstr ""
+
+#: ../plugin-options/general-options.php:42
+msgid ""
+"Choose the position of the menu in \"My Account\" page (only for sidebar "
+"style)"
+msgstr ""
+
+#: ../plugin-options/general-options.php:45
+msgid "Left"
+msgstr ""
+
+#: ../plugin-options/general-options.php:46
+msgid "Right"
+msgstr ""
+
+#: ../plugin-options/general-options.php:53
+msgid "Default endpoint"
+msgstr ""
+
+#: ../plugin-options/general-options.php:54
+msgid "Choose the default endpoint for \"My account\" page"
+msgstr ""
+
+#: ../plugin-options/general-options.php:67
+msgid "Style Options"
+msgstr ""
+
+#: ../plugin-options/general-options.php:74
+msgid "Menu item color"
+msgstr ""
+
+#: ../plugin-options/general-options.php:78
+msgid "Choose a color for menu items."
+msgstr ""
+
+#: ../plugin-options/general-options.php:82
+msgid "Menu item color on hover"
+msgstr ""
+
+#: ../plugin-options/general-options.php:86
+msgid "Choose colour of menu items on mouse hover."
+msgstr ""
+
+#: ../plugin-options/general-options.php:90
+msgid "Logout color"
+msgstr ""
+
+#: ../plugin-options/general-options.php:94
+msgid "Choose the color of the Logout text."
+msgstr ""
+
+#: ../plugin-options/general-options.php:98
+msgid "Logout color on hover"
+msgstr ""
+
+#: ../plugin-options/general-options.php:102
+msgid "Choose the color of the Logout text on mouse hover."
+msgstr ""
+
+#: ../plugin-options/general-options.php:106
+msgid "Logout background color"
+msgstr ""
+
+#: ../plugin-options/general-options.php:110
+msgid "Choose the color of the Logout background."
+msgstr ""
+
+#: ../plugin-options/general-options.php:114
+msgid "Logout background color on hover"
+msgstr ""
+
+#: ../plugin-options/general-options.php:118
+msgid "Choose the color of the Logout background on mouse hover."
+msgstr ""
+
+#: ../templates/admin/admin-endpoints.php:53
+msgctxt "Label for new endpoint title"
+msgid "Name"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:35
+msgid "Endpoint"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:44
+msgid "sub item"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:54
+#: ../templates/admin/endpoints-group.php:35
+msgid "Remove"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:64
+msgid "Endpoint slug"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:65
+msgid ""
+"Text appended to your page URLs to manage new contents in account pages. "
+"It must be unique for every page."
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:75
+msgid "Endpoint label"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:76
+#: ../templates/admin/endpoints-group.php:44
+msgid "Menu item for this endpoint in \"My Account\"."
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:86
+msgid "Endpoint icon"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:87
+msgid "Endpoint icon for \"My Account\" menu option"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:91
+msgid "No icon"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:101
+#: ../templates/admin/endpoints-group.php:54
+msgid "User roles"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:103
+#: ../templates/admin/endpoints-group.php:56
+msgid "Restrict endpoint visibility to the following user role(s)."
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:119
+msgid "Endpoint custom content"
+msgstr ""
+
+#: ../templates/admin/endpoint-field.php:120
+msgid "Custom endpoint content. Leave it black to use default content."
+msgstr ""
+
+#: ../templates/admin/endpoints-group.php:19
+msgid "Group"
+msgstr ""
+
+#: ../templates/admin/endpoints-group.php:43
+msgid "Group label"
+msgstr ""
+
+#: ../templates/admin/endpoints-group.php:70
+msgid "Show open"
+msgstr ""
+
+#: ../templates/admin/endpoints-group.php:71
+msgid ""
+"Show the group open by default. (Please note: this option is valid only "
+"for \"Sidebar\" style)"
+msgstr ""
+
+#: ../templates/ywcmap-myaccount-menu.php:34
+msgid "Logout"
+msgstr ""
+
+#: ../templates/ywcmap-myaccount-menu.php:62
+msgid "Upload your avatar"
+msgstr ""
+
+#: ../templates/ywcmap-myaccount-menu.php:68
+msgid "Upload"
+msgstr ""
+
+#: ../templates/ywcmap-myaccount-menu.php:75
+msgid "Reset to defaults"
+msgstr ""
